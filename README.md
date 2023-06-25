@@ -22,4 +22,7 @@ infrastructure and public safety.
 ### Signal visualization
 <img width="639" alt="image" src="https://github.com/Aditya20101/RF-signal-based-UAV-Identification-and-Classification/assets/75621797/d0b46605-ae0f-4f68-9856-31ffabae8e9e">
 
-See Report and Presentation for more information
+### Dataset
+Carolyn J. Swinney, John C. Woods, June 12, 2021, "DroneDetect Dataset: A Radio Frequency dataset of Unmanned Aerial System (UAS) Signals for Machine Learning Detection & Classification ", IEEE Dataport, doi: https://dx.doi.org/10.21227/5jjj-1m32.
+
+*See Report and Presentation for more information
