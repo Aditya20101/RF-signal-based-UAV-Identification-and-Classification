@@ -20,4 +20,6 @@ systems, making them an effective tool for protecting critical
 infrastructure and public safety.
 
 ### Signal visualization
-<img width="651" alt="image" src="https://github.com/Aditya20101/RF-signal-based-UAV-Identification-and-Classification/assets/75621797/e795a6d9-cd9b-4e33-be1d-e2a6e1b32bb8">
+<img width="639" alt="image" src="https://github.com/Aditya20101/RF-signal-based-UAV-Identification-and-Classification/assets/75621797/d0b46605-ae0f-4f68-9856-31ffabae8e9e">
+
+See Report and Presentation for more information
